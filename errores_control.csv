@@ -1,0 +1,42 @@
+,Fecha,Ubicacion,Aerolinea,Suceso,Categoria
+1,1947-06-13,"Leesburg, Virginia",Pennsylvania AL,A contributing cause was the faulty clearance given by ATC.,Errores de control
+2,1948-05-22,"Khabarovsk, Russia",Aeroflot,ATC error.,Errores de control
+3,1949-11-01,"Arlington, Virginia",Eastern Air Lines,ATC error.,Errores de control
+4,1952-10-05,"Skvoritsy, Russia",Aeroflot,Midair collision with a TC-62 aircraft. ATC error.,Errores de control
+5,1958-04-14,"Castel de Fels, Spain",Aviaco,Another aircraft was permitted to takeoff without knowing the exact position of the plane.,Errores de control
+6,1961-07-21,"Shemya, Alaska",Alaska AL,Lack of guidance from air traffic controller during last stages of flight.,Errores de control
+7,1965-02-08,"New York, New York",Eastern AL,Placement of the two aircraft on a near head on course causing one to crash.,Errores de control
+8,1967-03-09,"Urbana, Ohio",Trans World Airlines,ATC systems inadequate to separate controlled and uncontrolled traffic.,Errores de control
+9,1969-03-05,"San Juan, Puerto Rico",Prinair,A trainee vectored the aircraft into mountainous terrain under IFR conditions.,Errores de control
+10,1969-09-09,"Fairland, Indiana",Allegheny AL,Inadequate VFR separation and deficiencies in the ATC system,Errores de control
+11,1970-02-06,"Samarkand, USSR",Aeroflot,Misidentification of aircraft by the ATC causing the plane to impact a mountain.,Errores de control
+12,1971-09-17,Balkan Bulgarian AL,"Rila mountain, Bulgaria",The ATC confused the aircraft with another Turkish aircraft.,Errores de control
+13,1971-12-04,"Raleigh, North Carolina",Eastern AL,Inadequacy of ATC facilities and services in the terminal area.,Errores de control
+14,1972-01-04,"Plovdiv, Bulgaria",Balkan Bulgarian AL,"While on approach, the aircraft flew into a mountain. ATC error.",Errores de control
+15,1972-05-04,"Bratsk, Russia",Aeroflot,ATC error. Current weather was not passed on to the plane.,Errores de control
+16,1972-12-20,"Chicago, Illinois",Delta/North Central,The ATC gave ambiguous instructions to the crew.,Errores de control
+17,1973-07-31,"Boston, Massachusetts",Delta Air Lines,Poor positioning of the aircraft for an approach by ATC.,Errores de control
+18,1974-12-01,"Berryville, Virginia",Trans World Airlines,Lack of clarity in ATC procedures.,Errores de control
+19,1975-03-20,"Quilcene, Washington",U.S. Air Force,Faulty clearance by the ATC after misidentifying the C-141 as another aircraft.,Errores de control
+20,1974-12-04,"Irkutsk, Russia",Aeroflot,"ATC error, negligence in operations. Midair collision.",Errores de control
+21,1976-09-09,"Adler, Russia",Aeroflot / Aeroflot,Violation of separation rules.,Errores de control
+22,1976-09-10,"Hrvatska, Yugoslavia",Inex Adria Aviopromet / British Airways,"ATC error, negligence in operations. Midair collision.",Errores de control
+23,1978-02-11,"Cranbrook, BC",Pacific Western AL,Estimated time of arrival given by Calgary ATC in error.,Errores de control
+24,1979-08-11,"Dneprodzerzhinsk, USSR",Aeroflot,Separation error by the ATC causing a midair collision.,Errores de control
+25,1979-09-14,"Sarroch, Italy",Aero Transporti Italiani,Inadequate ATC assistance.,Errores de control
+26,1981-08-24,"Zavitinsk, Russia",Russian Air Force,Poor communication between civilian and military ATCs.,Errores de control
+27,1983-04-11,"Leninakan, Russia",Aeroflot,ATC procedural error in not identifying the planes position.,Errores de control
+28,1983-04-19,"Keninakan, Russia",Aeroflot,ATC procedural error in not identifying the planes position.,Errores de control
+29,1987-03-06,Aeroflot,"Almaty, Kazakhstan",The ATC didn't monitor the plane for at least 2 minutes after observing the plane taking a wrong course.,Errores de control
+30,1989-02-18,"Kuala Lumpur, Malaysia",Flying Tiger AL,"Non-standard phraseology used by Kuala Lumpur ATC, causing the crew to misinterpret the instructions.",Errores de control
+31,1991-02-01,"Los Angeles, California",USAir/Skywest,ATC cleared a plane to land while the runway was occupied by another aircraft.,Errores de control
+32,1992-01-20,"Strasbourg, France",Air Inter,The plane was slightly off course due to ATC error,Errores de control
+33,1995-09-22,"Ancorage, Alaska",U.S. Air Force,ATC did not worn about birds in the area.,Errores de control
+34,1996-11-07,"Lagos, Nigeria",Aviation Dev. Corp.,The controller thought he had cleared to aircraft to the correct altitude but didn't.,Errores de control
+35,1997-09-26,"Buah Nabar, Indonesia",Garuda Indonesian AL,ATC error in directing the plane in the wrong direction into mountainous terrain.,Errores de control
+36,1999-11-12,"Pristina, Kosovo",UN Charter,Improper tracking by the military ATC.,Errores de control
+37,2000-10-25,"Batumi,Georgia",Russian Air Force,ATC error.,Errores de control
+38,2002-07-01,"Uberlinger, Germany",Bashkirian AL / DHL,Conflicting information give to pilot by ATC and what he was receiving on his TCAS.,Errores de control
+39,1995-03-31,"Balotesti, Romania",Trans. Aeriene Rom.,The captain was incapacitated shortly after taking off.,Errores de control
+40,2000-09-04,"Near Burketown, Australia",Central Air,Incapacitation of the captain due to depressurized cabin and lack of oxygen.,Errores de control
+41,2005-08-14,"Grammatikos, Greece",Helios Airways,Pressurization failure incapacitated the entire crew.,Errores de control
