@@ -1,3 +1,16 @@
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+
+## **Proyecto Individual III: Analitic:**
+
+**Informe**
+
+El primer paso para empezar fue la normalización y limpieza del dataset proporcionado, una vez hecho esto, volqué los datos a Power Bi y comencé
+con las estadídicas que me proporcionaban los datos y dejar que estos hablaran por si solos, cuando pude entendelos busqué datasets que me ayudaran a esclarecer
+mas los hechos que ocurrieron
+
+Este proyecto se basa en la relacion de los accidentes aéreos ocurridos en el período de 1940 y 1960, período en el que hubo la mayor cantidad de aeronaves caidas.
+Estas décadas fueron claves para la aviación, ya que la segunda guerra mundial un antes y después en la aviación, fue una de las principales causas de dichos accidentes.
+Debido al avance aleman en la guerra, genero que EEUU acelerara la producción de aviones para la que se formaba entonces, su fuerza aérea, los aviones hasta el 
 momento no estaban probados en tan largas distancias, pero la necesidad de combatir los llevo a ponerlos en funcionamiento demasiado rápido, generando defectos en el
 diseño, ya que no estaban del todo pensados para el uso que tenían. No solo fue esta la causa, si no que se sumaban la escases de combustible y poca experiencia.
 Por otra parte la aerolinea comercial Lufthansa, se posicionaba como una de las mejores, su acelerado crecimiento llevo a que los aviones pudieran trasportar mayor 
